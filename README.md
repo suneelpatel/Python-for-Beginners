@@ -21,8 +21,7 @@
     - Python keywords are special reserve keywords
 * Identifiers
     - Names that the programmer defines
-* 
-
+* Literals
     - Values classified by types: e.g., numbers, truth values, text
 * Operators
     - Symbols that operate on data and produce results
