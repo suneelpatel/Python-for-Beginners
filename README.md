@@ -10,8 +10,8 @@
 * Free and open source
 * High Level Language
 * Support different programming paradigm
-** Object Oriented
-** Procedure Oriented
-** Functional Oriented
-** Imperative Oriented
+    - Object Oriented
+    - Procedure Oriented
+    - Functional Oriented
+    - Imperative Oriented
 * Portable
