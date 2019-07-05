@@ -1,7 +1,10 @@
 #Table of Content
 1. Learned About Python History, Definition, Characteristics
 2. Downloading & Installation
-3. Python Basics
+3. Python Keywords
+4. Python Identifiers
+5. Python Literals
+6. Python Operators
 
 
 # What is Python?
