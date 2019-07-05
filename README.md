@@ -1,4 +1,4 @@
-# Python
+# What is Python?
 
 * Created in 1991 by Guido Van Rossum
 * Named after Monty Python’s Flying Circus
