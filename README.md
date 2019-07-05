@@ -1,17 +1,19 @@
 #Table of Content
-1. Learned About Python History, Definition, Characteristics
+1. Learned About Python (History, Definition, Characteristics)
 2. Downloading & Installation
+3. Python Applications
 3. Python Keywords
 4. Python Identifiers
 5. Python Literals
 6. Python Operators
 
 
-# What is Python?
+# 1. Learned About Python (History, Definition, Characteristics)
 
+## What is Python?
 * Created in 1991 by Guido Van Rossum
 * Named after Monty Python’s Flying Circus
-* Is an interpreted, Object-Oriented, High Level Programming Language with dynamic semantics
+* Is an interpreted, Object-Oriented, High Level Programming Language with dynamic semantics.
 * Gained popularity because of its clear syntax and readability
 
 ## What experts have to say about Python?
@@ -24,6 +26,15 @@
     - Functional Oriented
     - Imperative Oriented
 * Portable
+
+# 2. Python Applications:
+* Artificial Intelligence
+* Data Science
+* Desktop Application
+* Automation
+* Web Development
+* Data Wrangling, Exploration And Visualization
+
 
 ## Python Tokens
 * Keyword
