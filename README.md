@@ -1,3 +1,9 @@
+#Table of Content
+1. Learned About Python History, Definition, Characteristics
+2. Downloading & Installation
+3. Python Basics
+
+
 # What is Python?
 
 * Created in 1991 by Guido Van Rossum
