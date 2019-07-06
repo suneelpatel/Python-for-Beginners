@@ -11,7 +11,7 @@
 10. Conditional Statement
 11. Loops in Python
 12. Functions
-13. onditional Statement
+13. File Operations
 
 
 # 1. Learn Basics Concept of Python
