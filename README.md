@@ -179,3 +179,9 @@ You can use one or more loop inside any another while, for or do..while loop.
     - 3. Pass Statement: The pass statement in Python is used when a statement is required syntactically but you don't want any command or code to execute  
 
 # 13. Functions
+
+A function is a block of code which only runs when it is called.
+
+You can pass data, known as parameters, into a function.
+
+A function can return data as a result.
