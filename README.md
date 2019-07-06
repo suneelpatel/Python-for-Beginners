@@ -156,6 +156,19 @@ Equals: a == b Not Equals: a != b Less than: a < b Less than or equal to: a <= b
 
 
 # 12. Loops in Python
+In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on. There may be a situation when you need to execute a block of code several number of times.
 
+Programming languages provide various control structures that allow for more complicated execution paths.
+
+A loop statement allows us to execute a statement or group of statements multiple times. 
+
+* while loop :
+Repeats a statement or group of statements while a given condition is TRUE. It tests the condition before executing the loop body.
+
+* for loop :
+Executes a sequence of statements multiple times and abbreviates the code that manages the loop variable.
+
+* nested loops: 
+You can use one or more loop inside any another while, for or do..while loop.
 
 # 13. Functions
