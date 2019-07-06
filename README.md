@@ -8,10 +8,10 @@
 7. Python Literals
 8. Python Operators
 9. Data Structure
-10. File Operations
-11. Conditional Statement
-12. Loops in Python
-13. Functions
+10. Conditional Statement
+11. Loops in Python
+12. Functions
+13. onditional Statement
 
 
 # 1. Learn Basics Concept of Python
@@ -142,10 +142,7 @@ Literals are data given in a variable or constant
     A dictionary is a collection which is unordered, changeable and indexed. In Python dictionaries are written with curly brackets { }, and they have keys and values in each items.
 
 
-# 10. File Operations
-
-
-# 11. Conditional Statement
+# 10. Conditional Statement
 Python Conditional Statement : If ... Else Statement
 
 Python Conditional Operators (conditions) and If statements
@@ -155,7 +152,7 @@ Python supports the usual logical conditions from mathematics:
 Equals: a == b Not Equals: a != b Less than: a < b Less than or equal to: a <= b Greater than: a > b Greater than or equal to: a >= b
 
 
-# 12. Loops in Python
+# 11. Loops in Python
 In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on. There may be a situation when you need to execute a block of code several number of times.
 
 Programming languages provide various control structures that allow for more complicated execution paths.
@@ -178,10 +175,13 @@ You can use one or more loop inside any another while, for or do..while loop.
     - 2. Continue Statement: Causes the loop to skip the remainder of its body and immediately retest its condition prior to reiterating
     - 3. Pass Statement: The pass statement in Python is used when a statement is required syntactically but you don't want any command or code to execute  
 
-# 13. Functions
+# 12. Functions
 
 A function is a block of code which only runs when it is called.
 
 You can pass data, known as parameters, into a function.
 
 A function can return data as a result.
+
+
+# 13. File Operations
