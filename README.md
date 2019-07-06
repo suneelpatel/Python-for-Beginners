@@ -8,7 +8,11 @@
 7. Python Literals
 8. Python Operators
 9. Data Structure
-10. Conditional Statement
+10. File Operations
+11. Conditional Statement
+12. Loops in Python
+13. Functions
+
 
 # 1. Learn Basics Concept of Python
 
@@ -137,7 +141,11 @@ Literals are data given in a variable or constant
     - Dictionary :
     A dictionary is a collection which is unordered, changeable and indexed. In Python dictionaries are written with curly brackets { }, and they have keys and values in each items.
 
-# 10. Conditional Statement
+
+# 10. File Operations
+
+
+# 11. Conditional Statement
 Python Conditional Statement : If ... Else Statement
 
 Python Conditional Operators (conditions) and If statements
@@ -146,3 +154,8 @@ Python supports the usual logical conditions from mathematics:
 
 Equals: a == b Not Equals: a != b Less than: a < b Less than or equal to: a <= b Greater than: a > b Greater than or equal to: a >= b
 
+
+# 12. Loops in Python
+
+
+# 13. Functions
