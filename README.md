@@ -109,8 +109,8 @@ Literals are data given in a variable or constant
 * Variables are containers for storing data values. Unlike other programming languages, Python has no command for declaring a variable.
 
 ### Python Variable Name Rules
-Must begin with a letter (a - z, A - B) or underscore (_)
-Other characters can be letters, numbers or _
-Case Sensitive.
-Can be any (reasonable) length.
-There are some reserved words which you cannot use as a variable name because Python uses them for other things.
+* Must begin with a letter (a - z, A - B) or underscore (_)
+* Other characters can be letters, numbers or _
+* Case Sensitive.
+* Can be any (reasonable) length.
+* There are some reserved words which you cannot use as a variable name because Python uses them for other things.
