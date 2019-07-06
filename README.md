@@ -6,6 +6,7 @@
 5. Python Identifiers
 6. Python Literals
 7. Python Operators
+8. Python Variables
 
 
 # 1. Learn Basics Concept of Python
@@ -102,3 +103,14 @@ Literals are data given in a variable or constant
 * Bitwise Operator
 * Identity Operator
 * Membership Operator
+
+# 8. Python Variables
+* A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing. 
+* Variables are containers for storing data values. Unlike other programming languages, Python has no command for declaring a variable.
+
+### Python Variable Name Rules
+Must begin with a letter (a - z, A - B) or underscore (_)
+Other characters can be letters, numbers or _
+Case Sensitive.
+Can be any (reasonable) length.
+There are some reserved words which you cannot use as a variable name because Python uses them for other things.
