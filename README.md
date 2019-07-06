@@ -138,3 +138,11 @@ Literals are data given in a variable or constant
     A dictionary is a collection which is unordered, changeable and indexed. In Python dictionaries are written with curly brackets { }, and they have keys and values in each items.
 
 # 10. Conditional Statement
+Python Conditional Statement : If ... Else Statement
+
+Python Conditional Operators (conditions) and If statements
+
+Python supports the usual logical conditions from mathematics:
+
+Equals: a == b Not Equals: a != b Less than: a < b Less than or equal to: a <= b Greater than: a > b Greater than or equal to: a >= b
+
