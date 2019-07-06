@@ -2,11 +2,11 @@
 1. Learn Basics Concept of Python
 2. Downloading & Installation
 3. Python Applications
-4. Python Keywords
-5. Python Identifiers
-6. Python Literals
-7. Python Operators
-8. Python Variables
+4. Python Variables
+5. Python Keywords
+6. Python Identifiers
+7. Python Literals
+8. Python Operators
 
 
 # 1. Learn Basics Concept of Python
@@ -58,6 +58,17 @@ A developer working with an IDE starts with a model, which the IDE translates in
 * Data Wrangling, Exploration And Visualization
 
 
+# 4. Python Variables
+* A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing. 
+* Variables are containers for storing data values. Unlike other programming languages, Python has no command for declaring a variable.
+
+### Python Variable Name Rules
+* Must begin with a letter (a - z, A - B) or underscore (_)
+* Other characters can be letters, numbers or _
+* Case Sensitive.
+* Can be any (reasonable) length.
+* There are some reserved words which you cannot use as a variable name because Python uses them for other things.
+
 ## Python Tokens
 * Keyword
     - Python keywords are special reserve keywords
@@ -68,13 +79,13 @@ A developer working with an IDE starts with a model, which the IDE translates in
 * Operators
     - Symbols that operate on data and produce results
     
-# 4. Python Tokens: Keywords
+# 5. Python Tokens: Keywords
 * Python keywords are special reserve keywords
 * Convey a special meaning to the compiler/interpreter
 * Each keywords have a special meaning and a specific operation
 * Keywords CANNOT be used as variable
 
-# 5. Python Tokens: Identifiers
+# 6. Python Tokens: Identifiers
 * Identifiers are the name to identify a variable, function, class or an object
 * RULES defined for naming an identifiers:
     - No special character except underscore (_) can be used as an identifier
@@ -82,7 +93,7 @@ A developer working with an IDE starts with a model, which the IDE translates in
     - Python is case sensitive, i.e. Var and var are two different identifier
     - First character of an identifier can be character, underscore(_) but not digit.
     
-# 6. Python Tokens: Literals
+# 7. Python Tokens: Literals
 Literals are data given in a variable or constant
 * String Literals
     - Formed by enclosing a text in the quotes
@@ -95,7 +106,7 @@ Literals are data given in a variable or constant
     - Python has one special literal: None
     - Used to specify to the field that is not created
 
-# 7. Python Tokens: Operators
+# 8. Python Tokens: Operators
 * Arithmetic Operator
 * Assignment Operator
 * Comparison Operator
@@ -104,13 +115,3 @@ Literals are data given in a variable or constant
 * Identity Operator
 * Membership Operator
 
-# 8. Python Variables
-* A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing. 
-* Variables are containers for storing data values. Unlike other programming languages, Python has no command for declaring a variable.
-
-### Python Variable Name Rules
-* Must begin with a letter (a - z, A - B) or underscore (_)
-* Other characters can be letters, numbers or _
-* Case Sensitive.
-* Can be any (reasonable) length.
-* There are some reserved words which you cannot use as a variable name because Python uses them for other things.
