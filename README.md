@@ -7,7 +7,8 @@
 6. Python Identifiers
 7. Python Literals
 8. Python Operators
-
+9. Data Structure
+10. Conditional Statement
 
 # 1. Learn Basics Concept of Python
 
@@ -116,3 +117,24 @@ Literals are data given in a variable or constant
 * Membership Operator
 
 
+# 9. Data Structure (Data Types in Python)
+* Immutable Data
+    - Numeric : 
+    There are three numeric types in Python:
+        - Int :Int, or integer, is a whole number, positive or negative, without decimals, of unlimited length.
+        - Float : Float, or "floating point number" is a number, positive or negative, containing one or more decimals.
+        - Complex : Complex numbers are written with a "j" as the imaginary part:
+    - String :
+    Combination of characters within the single or double quotes or it's a contiues series of characters surrounded by single or double quotes
+    - Tuples :
+    A tuple is a collection which is ordered and immutable (unchangeable). In Python tuples are written with round brackets.
+ 
+ * Mutable Data
+    - List :
+    A list is a collection which is ordered and changeable. In Python lists are written with square brackets. [ ]
+    - Set :
+    A set is a collection which is unordered and unindexed. In Python sets are written with curly brackets { }
+    - Dictionary :
+    A dictionary is a collection which is unordered, changeable and indexed. In Python dictionaries are written with curly brackets { }, and they have keys and values in each items.
+
+# 10. Conditional Statement
