@@ -1,5 +1,5 @@
 A=10
-B='edureka!'
+B='Data Science!'
 
 print(A,B)
 
