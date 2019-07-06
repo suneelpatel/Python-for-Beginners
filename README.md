@@ -171,4 +171,11 @@ Executes a sequence of statements multiple times and abbreviates the code that m
 * nested loops: 
 You can use one or more loop inside any another while, for or do..while loop.
 
+### Loop Control Statements:
+* Loop control statements change execution from its normal sequence. When execution leaves a scope, all automatic objects that were created in that scope are destroyed
+
+    - 1. Break Statement : Terminates the loop statement and transfer execution to the statement immediately following the loop
+    - 2. Continue Statement: Causes the loop to skip the remainder of its body and immediately retest its condition prior to reiterating
+    - 3. Pass Statement: The pass statement in Python is used when a statement is required syntactically but you don't want any command or code to execute  
+
 # 13. Functions
