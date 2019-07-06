@@ -111,7 +111,8 @@ Literals are data given in a variable or constant
 * Assignment Operator
 * Comparison Operator
 * Logical Operator
+* Bitwise Operator
 * Identity Operator
 * Membership Operator
-* Bitwise Operator
+
 
