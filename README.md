@@ -9,8 +9,9 @@
 8. Python Operators
 9. Data Structure
 10. Conditional Statement
-11. Loops in Python
-12. Functions
+11. Flow Contorl
+12. Loops in Python
+13. Functions
 13. File Operations
 
 
@@ -150,6 +151,36 @@ Python Conditional Operators (conditions) and If statements
 Python supports the usual logical conditions from mathematics:
 
 Equals: a == b Not Equals: a != b Less than: a < b Less than or equal to: a <= b Greater than: a > b Greater than or equal to: a >= b
+
+# 11. Flow Control
+Flow Control lets us define a flow in executing our programs. To mimic the real world, you need to transform real world situations into your program. For this you need to control the execution of your program statements using Flow Controls.
+
+There are six basic flow controls used in Python programming:
+
+* if
+* for
+* while
+* break
+* continue
+* pass
+
+#### If Statement :
+The Python compound statement ’if’ lets you conditionally execute blocks of statements.
+
+#### For Statement:
+The for statement supports repeated execution of a statement or block of statements that is controlled by an iterable expression.
+
+#### While Statement: 
+The while statement in Python programming supports repeated execution of a statement or block of statements that is controlled by a conditional expression.
+
+#### Break Statement: 
+The break statement is allowed only inside a loop body. When break executes, the loop terminates. If a loop is nested inside other loops, break terminates only the innermost nested loop.
+
+#### Continue Statement:
+The continue statement is allowed only inside a loop body. When continue executes, the current iteration of the loop body terminates, and execution continues with the next iteration of the loop.
+
+#### Pass Statement: 
+The pass statement, which performs no action, can be used as a placeholder when a statement is syntactically required but you have nothing specific to do.
 
 
 # 11. Loops in Python
