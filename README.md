@@ -12,7 +12,8 @@
 11. Flow Contorl
 12. Loops in Python
 13. Functions
-13. File Operations
+14. File Operations
+15. Eception Handling
 
 
 # 1. Learn Basics Concept of Python
@@ -309,3 +310,10 @@ A binary file is any type of file that is not a text file. Because of their natu
 
 Text files are structured as a sequence of lines, where each line includes a sequence of characters. This is what you know as code or syntax. Each line is terminated with a special character, called the EOL or End of Line character.
 
+## Exception Handling:
+
+The try block lets you test a block of code for errors.
+
+The except block lets you handle the error.
+
+The finally block lets you execute code, regardless of the result of the try- and except blocks.
