@@ -312,8 +312,8 @@ Text files are structured as a sequence of lines, where each line includes a seq
 
 # 15. Exception Handling:
 
-The try block lets you test a block of code for errors.
+The "try" block lets you test a block of code for errors.
 
-The except block lets you handle the error.
+The "except" block lets you handle the error.
 
-The finally block lets you execute code, regardless of the result of the try- and except blocks.
+The "finally" block lets you execute code, regardless of the result of the try- and except blocks.
