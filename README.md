@@ -183,7 +183,7 @@ The continue statement is allowed only inside a loop body. When continue execute
 The pass statement, which performs no action, can be used as a placeholder when a statement is syntactically required but you have nothing specific to do.
 
 
-# 11. Loops in Python
+# 12. Loops in Python
 In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on. There may be a situation when you need to execute a block of code several number of times.
 
 Programming languages provide various control structures that allow for more complicated execution paths.
@@ -206,7 +206,7 @@ You can use one or more loop inside any another while, for or do..while loop.
     - 2. Continue Statement: Causes the loop to skip the remainder of its body and immediately retest its condition prior to reiterating
     - 3. Pass Statement: The pass statement in Python is used when a statement is required syntactically but you don't want any command or code to execute  
 
-# 12. Functions
+# 13. Functions
 
 A function is a block of code which only runs when it is called.
 
@@ -222,7 +222,7 @@ In other words, Functions in Python programming, is a group of related statement
 * Functions provide abstraction
 * Functions help in extensibility
 
-# 13. File Operations / File Handling
+# 14. File Operations / File Handling
 
 File handling is an important part of any web application.
 
