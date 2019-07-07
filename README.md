@@ -214,6 +214,14 @@ You can pass data, known as parameters, into a function.
 
 A function can return data as a result.
 
+In other words, Functions in Python programming, is a group of related statements that performs a specific task. Functions make our program more organized and help in code re-usability.
+
+#### Uses Of Functions:
+* Functions help in code reusability
+* Functions provide organization to the code
+* Functions provide abstraction
+* Functions help in extensibility
+
 # 13. File Operations / File Handling
 
 File handling is an important part of any web application.
