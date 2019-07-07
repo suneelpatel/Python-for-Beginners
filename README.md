@@ -230,9 +230,51 @@ Python has several functions for creating, reading, updating, and deleting files
 
 ### File Handling
 
+File Handling refers to those operations that are used to read or write a file.
+
+To perform file handling, we need to perform these steps:
+
+* Step1: Open File
+* Step2: Read / Write File
+* Step3: Close File
+
+
 The key function for working with files in Python is the open() function.
 
 The open() function takes two parameters; filename, and mode.
+
+#### Opening A File:
+
+Python has a built-in function open() to open a file
+This function returns a file object, also called a handle, as it is used to read or modify the file accordingly
+
+
+#### Writing To A File:
+
+In order to write into a file we need to open it in write ‘w’, append ‘a’ or exclusive creation ‘x’ mode
+We need to be careful with the ‘w’ mode as it will overwrite into the file if it already exists. All previous data are erased
+Writing a string or sequence of bytes (for binary files) is done using write() method
+
+#### Reading From A File:
+To read the content of a file, we must open the file in the reading mode
+We can use the read(size) method to read in size number of data
+If size parameter is not specified, it reads and returns up to the end of the file
+
+#### Closing A File:
+When we are done with operations to the file, we need to properly close it.
+Closing a file will free up the resources that were tied with the file and is done using the close() method.
+
+### File Operations Using Python – CRUD Operation In Python:
+
+What are the various file operations that you can generally perform?
+
+We call it CRUD. CRUD stands for:
+
+* Create
+* Read
+* Update
+* Delete
+
 
 There are four different methods (modes) for opening a file:
 
@@ -249,3 +291,21 @@ There are four different methods (modes) for opening a file:
     - "t" - Text - Default value. Text mode
 
     - "b" - Binary - Binary mode (e.g. images)
+    
+
+### Types Of Files Supported By Python
+Can you quickly think of all of the types of files that you know? Image, audio, video, text, scripts and many more.
+
+The dependency on the native Operating System is the most important thing to keep in mind when considering the type of files supported.
+
+Windows supports all of the file types mentioned in the first line. But does it support every type of file? Absolutely not! There are certain limitations here as well.
+
+Now, coming to Python – There are 2 types of files mainly:
+
+* Binary
+* Text
+
+A binary file is any type of file that is not a text file. Because of their nature, binary files can only be processed by an application that knows or understand the file’s structure. In other words, they must be applications that can read and interpret binary.
+
+Text files are structured as a sequence of lines, where each line includes a sequence of characters. This is what you know as code or syntax. Each line is terminated with a special character, called the EOL or End of Line character.
+
