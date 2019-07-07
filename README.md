@@ -310,7 +310,7 @@ A binary file is any type of file that is not a text file. Because of their natu
 
 Text files are structured as a sequence of lines, where each line includes a sequence of characters. This is what you know as code or syntax. Each line is terminated with a special character, called the EOL or End of Line character.
 
-## Exception Handling:
+# 15. Exception Handling:
 
 The try block lets you test a block of code for errors.
 
